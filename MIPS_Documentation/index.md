@@ -21,7 +21,7 @@ In MIPS, instructions are generally 32 bits wide, and the **memory is organized 
 
 The MIPS architecture has 32 general-purpose registers, along with some special-purpose registers. Below is a table summarizing the usage and names of the MIPS registers:
 
-| Register | Name   | Purpose                                      |
+| Name     | Number  | Purpose                                      |
 |----------|--------|----------------------------------------------|
 | `$zero`  | 0      | Constant 0                                  |
 | `$at`    | 1      | Assembler temporary (reserved for assembler)|
